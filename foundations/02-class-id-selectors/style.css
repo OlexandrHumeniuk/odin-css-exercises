@@ -1,0 +1,19 @@
+.odd {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(248, 129, 123);
+}
+
+#second {
+    color: rgba(15, 15, 199, 0.651);
+    font-size: 32px;
+}
+
+.add {
+    font-size: 24px;
+}
+
+#last {
+    background: rgb(105, 182, 105);
+    font-size: 24px;
+    font-weight: bold;
+}
